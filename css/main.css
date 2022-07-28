@@ -62,9 +62,9 @@ input[type="search"] {
 }
 .search-form button {
     background-color: var(--Very-Dark-Gray);
-    background-image: url('/images/icon-arrow.svg');
+    /* background-image: url('/images/icon-arrow.svg');
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     border: 0;
     border-radius: 0 1rem 1rem 0;
     padding: 2.5rem;
